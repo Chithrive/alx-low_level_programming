@@ -5,6 +5,7 @@
  */
 int main()
 {
-printf("This is a piece of art, but the outcome is not just a product of chance.\n");
+printf("This is a piece of art, but the outcome is no
+t just a product of chance.\n");
 return (0);
 }
